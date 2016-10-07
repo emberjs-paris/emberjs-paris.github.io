@@ -1,2 +1,2 @@
-# emberjs-paris.github.io
+# emberjs.paris
 EmberJS Paris Website
